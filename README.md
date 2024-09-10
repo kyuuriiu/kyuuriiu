@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @kyuuriiu
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Python, C++, MEL, and VEX
+- 🌱 I’m currently learning Game Development
 
 <!---
 kyuuriiu/kyuuriiu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
